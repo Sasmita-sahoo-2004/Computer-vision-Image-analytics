@@ -1,1 +1,1 @@
-# Computer-vision-Image-analytics-all-
+# Computer-vision-Image-analytics
